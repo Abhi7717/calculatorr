@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+html,body{
+    height: 100%;
+    width: 100%;
+    font-family: 'Roboto' ,sans-serif;
+    background-image: url(https://assets.materialup.com/uploads/70394137-c316-4452-a00a-b817e400150e/preview.gif);
+    background-size: cover ;
+    background-position: center;
+}
+.button{
+    padding: 20px;
+    width: 66px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    
+    
+        background-color: white;
+        color: black;
+        border: 2px solid #4CAF50; /* Green */
+    
+}
+.row{
+    margin: 7px;
+
+}
+.row input{
+    width: 291px;
+    font-size: 23px;
+    margin: 0;
+    padding: 10px 0px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
